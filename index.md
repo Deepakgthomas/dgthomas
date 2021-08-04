@@ -1,6 +1,6 @@
 ## Deepak George Thomas
 
-I am a PhD student in the department of Computer Science at Iowa State University.
+I am a foo PhD student in the department of Computer Science at Iowa State University.
 
 My research areas is on Sample Efficient Deep Reinforcement Learning. 
 
