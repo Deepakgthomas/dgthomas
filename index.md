@@ -1,6 +1,9 @@
 ```markdown
 ## Deepak George Thomas
+```
 ![my_picture_3](/chicago_photo.jpg)
+```markdown
+
 I am a PhD student in the department of Computer Science at Iowa State University.
 
 My research areas is on Sample Efficient Deep Reinforcement Learning. 
