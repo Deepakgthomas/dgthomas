@@ -1,8 +1,6 @@
-```markdown
+
 ## Deepak George Thomas
-```
 ![my_picture_3](/chicago_photo.jpg)
-```markdown
 
 I am a PhD student in the department of Computer Science at Iowa State University.
 
@@ -25,24 +23,3 @@ Here is a list of my publications -
 •	M.C. McNamara, F. Sharifi, A.H. Wrede, D.F. Kimlinger, D.G. Thomas, J.B. Vander Wiel, Y. Chen, R. Montazami, and N.N. Hashemi, "Microfibers as Physiologically Relevant Platforms for Creation of 3D Cell Cultures", Macromolecular Bioscience, 17, 1700279 (2017)
 
 •	R.K.L. Tan, S.P. Reeves, D.G. Thomas, E. Kavak, R. Montazami, and N.N. Hashemi, "Graphene as a Flexible Electrode: Review of Fabrication Approaches", Journal of Materials Chemistry A, 5, 17777-17803 (2017)
-
-
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-![my_picture](https://github.com/Deepakgthomas/dgthomas.github.io/blob/gh-pages/chicago_photo.jpg)
-
-```
