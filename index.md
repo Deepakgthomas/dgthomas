@@ -1,6 +1,6 @@
 
 ## Deepak George Thomas
-<img src="/chicago_photo.jpg" alt="Simply Easy Learning" width="200" height="80">
+<img src="/chicago_photo.jpg" alt="Simply Easy Learning" width="200" height="200">
 I am a PhD student in the department of Computer Science at Iowa State University.
 
 My research areas is on Sample Efficient Deep Reinforcement Learning. 
