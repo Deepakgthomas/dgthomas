@@ -1,5 +1,5 @@
 ## Deepak George Thomas
-![my_picture](https://github.com/Deepakgthomas/dgthomas.github.io/blob/gh-pages/chicago_photo.jpg)
+![my_picture](/chicago_photo.jpg)
 I am a PhD student in the department of Computer Science at Iowa State University.
 
 My research areas is on Sample Efficient Deep Reinforcement Learning. 
