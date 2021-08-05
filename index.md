@@ -1,7 +1,7 @@
 ```markdown
 ## Deepak George Thomas
 ```
-![my_picture_3](/chicago_photo.jpg width="500" height="600")
+![my_picture_3](/chicago_photo.jpg)
 ```markdown
 
 I am a PhD student in the department of Computer Science at Iowa State University.
