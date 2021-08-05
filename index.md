@@ -41,9 +41,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-<img src="./chicago_photo.jpg" style="display: block; margin: auto;" />
+![my_picture](https://github.com/Deepakgthomas/dgthomas.github.io/blob/gh-pages/chicago_photo.jpg)
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
