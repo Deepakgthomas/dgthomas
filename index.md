@@ -1,3 +1,4 @@
+```markdown
 ## Deepak George Thomas
 ![my_picture_3](/chicago_photo.jpg)
 I am a PhD student in the department of Computer Science at Iowa State University.
@@ -22,10 +23,8 @@ Here is a list of my publications -
 
 •	R.K.L. Tan, S.P. Reeves, D.G. Thomas, E. Kavak, R. Montazami, and N.N. Hashemi, "Graphene as a Flexible Electrode: Review of Fabrication Approaches", Journal of Materials Chemistry A, 5, 17777-17803 (2017)
 
-You can use the [editor on GitHub](https://github.com/Deepakgthomas/dgthomas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
 ```markdown
 Syntax highlighted code block
