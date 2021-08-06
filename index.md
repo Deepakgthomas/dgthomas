@@ -17,7 +17,7 @@
 *Data Science for the Public Good (DSPG) Summer Program*, Ames, Iowa, May 2020 – August 2020 <br><br>
 **Integrated Solutions Engineering Co-op, Research and Development**<br>
 *Danfoss*, Ames, Iowa, Jan 2019 – Aug 2019 <br><br>
-**Design Engineering Co-op, Global Product Organization**<br>
+**Design Engineering Co-op, Global Product Organization**<br><br>
 *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br>
 **Research and Development Intern**<br>
 *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
