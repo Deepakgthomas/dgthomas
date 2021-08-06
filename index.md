@@ -11,3 +11,18 @@
 6. McNamara, Marilyn C., Farrokh Sharifi, Alex H. Wrede, Daniel F. Kimlinger, Deepak‐George Thomas, Jonathan B. Vander Wiel, Yuanfen Chen, Reza Montazami, and Nicole N. Hashemi. "Microfibers as physiologically relevant platforms for creation of 3D cell cultures." Macromolecular bioscience 17, no. 12 (2017): 1700279.
 7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br>
 
+## Work Experience
+
+Data Science for the Public Good (DSPG) Summer Program                                                       Ames, Iowa
+(DSPG) Fellow						                   May 2020 – August 2020
+•	Led two social analytics projects and managed four undergraduate interns.
+•	Project Hotline – Developed a tool to assist Iowa Hotlines
+o	Incorporated Sentiment Analysis using call transcripts to gauge user emotions during calls
+o	Implemented and proposed ideas to auto generate reports 
+o	The tool can be viewed here - https://dspg-isu.shinyapps.io/hotline/ 
+•	Project DEMOS – Developed a dashboard to generate insights on alcohol drinking population in Iowa
+o	Forecasted alcohol related crashes and sales at Iowa using a Bayesian Model
+o	Devised statistical models to identify counties with highest alcohol related risks
+o	The dashboard can be viewed here - https://dspg-isu.shinyapps.io/alcohol/ 
+
+
