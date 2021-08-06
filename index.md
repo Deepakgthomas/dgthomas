@@ -12,18 +12,15 @@
 7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br>
 
 ## Work Experience
-<br>
 
-Data Science for the Public Good (DSPG) Summer Program  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ames, Iowa<br>
-(DSPG) Fellow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp						                   May 2020 – August 2020<br>
-•	Led two social analytics projects and managed four undergraduate interns.<br>
-•	Project Hotline – Developed a tool to assist Iowa Hotlines<br>
-o	Incorporated Sentiment Analysis using call transcripts to gauge user emotions during calls<br>
-o	Implemented and proposed ideas to auto generate reports <br>
-o	The tool can be viewed here - https://dspg-isu.shinyapps.io/hotline/ <br>
-•	Project DEMOS – Developed a dashboard to generate insights on alcohol drinking population in Iowa<br>
-o	Forecasted alcohol related crashes and sales at Iowa using a Bayesian Model<br>
-o	Devised statistical models to identify counties with highest alcohol related risks<br>
-o	The dashboard can be viewed here - https://dspg-isu.shinyapps.io/alcohol/ <br>
+**Fellow**<br>
+*Data Science for the Public Good (DSPG) Summer Program*, Ames, Iowa, May 2020 – August 2020 <br><br>
+**Integrated Solutions Engineering Co-op, Research and Development**<br>
+*Danfoss*, Ames, Iowa, Jan 2019 – Aug 2019 <br><br>
+**Design Engineering Co-op, Global Product Organization**<br>
+*Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br>
+**Research and Development Intern**<br>
+*ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
+
 
 
