@@ -1,4 +1,4 @@
-<div style="text-align: justify">I am a third year Ph.D. student in the Department of Computer Science at Iowa State University. My interests lie in Deep Reinforcement Learning and Bayesian Networks, and my research revolves around developing autonomous drones. I completed my Master’s degree in Mechanical Engineering from Iowa State in 2019, wherein I worked on Ball Milling Techniques.</div><br><br>
+<br><div style="text-align: justify">I am a third year Ph.D. student in the Department of Computer Science at Iowa State University. My interests lie in Deep Reinforcement Learning and Bayesian Networks, and my research revolves around developing autonomous drones. I completed my Master’s degree in Mechanical Engineering from Iowa State in 2019, wherein I worked on Ball Milling Techniques.</div><br>
 
 ## Publications and Preprints
 
@@ -8,7 +8,5 @@
 4. Thomas, Deepak-George. "Exfoliation of scalable few layer biocompatible graphene nanosheets using a protein-assisted mechano-chemical technique." PhD diss., Iowa State University, 2019.
 5. Thomas, Deepak-George, Emrah Kavak, Niloofar Hashemi, Reza Montazami, and Nicole N. Hashemi. "Synthesis of graphene nanosheets through spontaneous sodiation process." C 4, no. 3 (2018): 42.
 6. McNamara, Marilyn C., Farrokh Sharifi, Alex H. Wrede, Daniel F. Kimlinger, Deepak‐George Thomas, Jonathan B. Vander Wiel, Yuanfen Chen, Reza Montazami, and Nicole N. Hashemi. "Microfibers as physiologically relevant platforms for creation of 3D cell cultures." Macromolecular bioscience 17, no. 12 (2017): 1700279.
-7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br><br>
-
-## Work Experience
+7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br>
 
