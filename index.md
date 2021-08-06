@@ -1,4 +1,5 @@
-<br><div style="text-align: justify">I am a third year Ph.D. student in the Department of Computer Science at Iowa State University. My interests lie in Deep Reinforcement Learning and Bayesian Networks, and my research revolves around developing autonomous drones. I completed my Master’s degree in Mechanical Engineering from Iowa State in 2019, wherein I worked on Ball Milling Techniques.</div><br>
+<br>
+<div style="text-align: justify">I am a third year Ph.D. student in the Department of Computer Science at Iowa State University. My interests lie in Deep Reinforcement Learning and Bayesian Networks, and my research revolves around developing autonomous drones. I completed my Master’s degree in Mechanical Engineering from Iowa State in 2019, wherein I worked on Ball Milling Techniques.</div><br>
 
 ## Publications and Preprints
 
