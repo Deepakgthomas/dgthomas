@@ -3,13 +3,13 @@
 
 ## Publications and Preprints
 <div style="text-align: justify">
-1. Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021).
+1. Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021).</div>
 2. Thomas, D.G., De-Alwis, S., Gupta, S., Pecharsky, V.K., Mendivelso-Perez, D., Montazami, R., Smith, E.A. and Hashemi, N.N., 2021. Protein-assisted scalable mechanochemical exfoliation of few-layer biocompatible graphene nanosheets. Royal Society open science, 8(3), p.200911.
 3. Shihab, Syed Arbab Mohd, Caleb Logemann, Deepak-George Thomas, and Peng Wei. "Autonomous airline revenue management: A deep reinforcement learning approach to seat inventory control and overbooking." arXiv preprint arXiv:1902.06824 (2019).
 4. Thomas, Deepak-George. "Exfoliation of scalable few layer biocompatible graphene nanosheets using a protein-assisted mechano-chemical technique." PhD diss., Iowa State University, 2019.
 5. Thomas, Deepak-George, Emrah Kavak, Niloofar Hashemi, Reza Montazami, and Nicole N. Hashemi. "Synthesis of graphene nanosheets through spontaneous sodiation process." C 4, no. 3 (2018): 42.
 6. McNamara, Marilyn C., Farrokh Sharifi, Alex H. Wrede, Daniel F. Kimlinger, Deepak‐George Thomas, Jonathan B. Vander Wiel, Yuanfen Chen, Reza Montazami, and Nicole N. Hashemi. "Microfibers as physiologically relevant platforms for creation of 3D cell cultures." Macromolecular bioscience 17, no. 12 (2017): 1700279.
-7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. </div><br>
+7. Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br>
 
 ## Work Experience
 
