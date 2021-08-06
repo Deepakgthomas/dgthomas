@@ -2,8 +2,8 @@
 
 ## Publications and Preprints
 
-1. Interpretable UAV Collision Avoidance using Deep Reinforcement Learning/
-DG Thomas, D Olshanskyi, K Krueger, A Jannesari/
+1. Interpretable UAV Collision Avoidance using Deep Reinforcement Learning<br>
+DG Thomas, D Olshanskyi, K Krueger, A Jannesari<br>
 arXiv preprint arXiv:2105.12254
 
 
