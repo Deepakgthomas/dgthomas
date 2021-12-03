@@ -22,5 +22,9 @@
 **Research and Development Intern**<br>
 *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
 
+## Reviewer
+
+- Transactions on Emerging Topics in Computational Intelligence
+
 
 
