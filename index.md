@@ -11,6 +11,10 @@
 - McNamara, Marilyn C., Farrokh Sharifi, Alex H. Wrede, Daniel F. Kimlinger, Deepak‐George Thomas, Jonathan B. Vander Wiel, Yuanfen Chen, Reza Montazami, and Nicole N. Hashemi. "Microfibers as physiologically relevant platforms for creation of 3D cell cultures." Macromolecular bioscience 17, no. 12 (2017): 1700279.
 - Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. <br>
 
+## Reviewer
+
+- Transactions on Emerging Topics in Computational Intelligence
+
 ## Work Experience
 
 **Fellow**<br>
@@ -21,10 +25,3 @@
 *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
 **Research and Development Intern**<br>
 *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
-
-## Reviewer
-
-- Transactions on Emerging Topics in Computational Intelligence
-
-
-
