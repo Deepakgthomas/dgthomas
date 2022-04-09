@@ -2,7 +2,7 @@
 <div style="text-align: justify">I am a third year Ph.D. student in the Department of Computer Science at Iowa State University. My interests lie in Deep Reinforcement Learning, Causal Inference and Bayesian Networks. I completed my Master’s degree in Mechanical Engineering from Iowa State in 2019, wherein I worked on Ball Milling Techniques.</div><br>
 
 ## Publications and Preprints
-- Thomas, D., Wongpiromsarn, T. and Jannesari, A., 2021. Temporal Shift Reinforcement Learning. [online] arXiv.org. Available at: <https://arxiv.org/abs/2109.02145> [Accessed 22 October 2021].
+- Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.
 - Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021).
 - Thomas, D.G., De-Alwis, S., Gupta, S., Pecharsky, V.K., Mendivelso-Perez, D., Montazami, R., Smith, E.A. and Hashemi, N.N., 2021. Protein-assisted scalable mechanochemical exfoliation of few-layer biocompatible graphene nanosheets. Royal Society open science, 8(3), p.200911.
 - Shihab, Syed Arbab Mohd, Caleb Logemann, Deepak-George Thomas, and Peng Wei. "Autonomous airline revenue management: A deep reinforcement learning approach to seat inventory control and overbooking." arXiv preprint arXiv:1902.06824 (2019).
