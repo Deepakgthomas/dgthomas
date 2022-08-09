@@ -3,7 +3,7 @@
 
 ## Publications and Preprints
 - Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.
-- Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021). [<a href=(https://github.com/Deepakgthomas/deepakgthomas.github.io/files/9294702/2105.12254.pdf)> paper </a>]
+- Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021). <a href=(https://github.com/Deepakgthomas/deepakgthomas.github.io/files/9294702/2105.12254.pdf)> paper </a>
 - Thomas, D.G., De-Alwis, S., Gupta, S., Pecharsky, V.K., Mendivelso-Perez, D., Montazami, R., Smith, E.A. and Hashemi, N.N., 2021. Protein-assisted scalable mechanochemical exfoliation of few-layer biocompatible graphene nanosheets. Royal Society open science, 8(3), p.200911.
 - Shihab, Syed Arbab Mohd, Caleb Logemann, Deepak-George Thomas, and Peng Wei. "Autonomous airline revenue management: A deep reinforcement learning approach to seat inventory control and overbooking." arXiv preprint arXiv:1902.06824 (2019).
 - Thomas, Deepak-George. "Exfoliation of scalable few layer biocompatible graphene nanosheets using a protein-assisted mechano-chemical technique." Master's dissertation, Iowa State University, 2019.
