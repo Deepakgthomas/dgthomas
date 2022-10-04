@@ -1,5 +1,5 @@
 ## About Me
-<div style="text-align: justify">I am a third-year Ph.D. student in the Department of Computer Science at Iowa State University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.</div><br>
+<div style="text-align: justify">I am a fourth-year Ph.D. student in the Department of Computer Science at Iowa State University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.</div><br>
 
 ## Publications and Preprints
 <div style="text-align: justify">
