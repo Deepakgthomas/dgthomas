@@ -5,9 +5,9 @@
 <div style="text-align: justify">
 - Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.</div><br>
 <div style="text-align: justify">
-- Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021). 
+- Thomas, Deepak-George, Daniil Olshanskyi, Karter Krueger, and Ali Jannesari. "Interpretable UAV Collision Avoidance using Deep Reinforcement Learning." arXiv preprint arXiv:2105.12254 (2021). </div><br>
   [[Preprint]](https://github.com/Deepakgthomas/deepakgthomas.github.io/files/9294702/2105.12254.pdf)
-  </div><br>
+  
   <div style="text-align: justify">
 - Thomas, D.G., De-Alwis, S., Gupta, S., Pecharsky, V.K., Mendivelso-Perez, D., Montazami, R., Smith, E.A. and Hashemi, N.N., 2021. Protein-assisted scalable mechanochemical exfoliation of few-layer biocompatible graphene nanosheets. Royal Society open science, 8(3), p.200911.   </div><br>
  <div style="text-align: justify">
