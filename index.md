@@ -22,11 +22,11 @@
 - Tan, Russell Kai Liang, Sean P. Reeves, Niloofar Hashemi, Deepak George Thomas, Emrah Kavak, Reza Montazami, and Nicole N. Hashemi. "Graphene as a flexible electrode: review of fabrication approaches." Journal of Materials Chemistry A 5, no. 34 (2017): 17777-17803. </div><br>
 
 ## Reviewer
-
+<div style="text-align: justify">
 - Transactions on Emerging Topics in Computational Intelligence
-
+</div><br>
 ## Work Experience
-
+<div style="text-align: justify">
 **Fellow**<br>
 *Data Science for the Public Good (DSPG) Summer Program*, Ames, Iowa, May 2020 – August 2020 <br><br>
 **Integrated Solutions Engineering Co-op, Research and Development**<br>
@@ -35,3 +35,4 @@
 *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
 **Research and Development Intern**<br>
 *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
+</div><br>
