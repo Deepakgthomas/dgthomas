@@ -1,7 +1,12 @@
 ## About Me
-I am a fourth-year Ph.D. student in the Department of Computer Science at Iowa State University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.
+I am a Ph.D. student in the Department of Computer Science at Tulane University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.
 
 ## Publications and Preprints
+
+<p>
+  <span style="color: #gold; font-weight: bold;">🏆 Distinguished Paper Award</span><br>
+Ghanbari, Ali, et al. "Mutation-based Fault Localization of Deep Neural Networks." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
+</p>
 
 - Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.
 
