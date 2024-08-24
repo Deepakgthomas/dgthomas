@@ -1,5 +1,5 @@
 ## About Me
-I am a Ph.D. student in the Department of Computer Science at Tulane University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.
+I am a Ph.D. student in the Department of Computer Science at Tulane University. I am interested in working on problems related to Deep Reinforcement Learning, Causal Inference, and Bayesian Networks. I obtained a Master's in Computer Science and Mechanical Engineering from Iowa State University. 
 
 ## Publications and Preprints
 
