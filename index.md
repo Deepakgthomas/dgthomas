@@ -3,10 +3,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 ## Publications and Preprints
 
-<p>
-  <span style="color: #gold; font-weight: bold;">🏆 Distinguished Paper Award</span><br>
-- Ghanbari, Ali, et al. "Mutation-based Fault Localization of Deep Neural Networks." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
-</p>
+- **[Distinguished Paper Award]** Ghanbari, Ali, et al. "Mutation-based Fault Localization of Deep Neural Networks." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
 
 - Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.
 
