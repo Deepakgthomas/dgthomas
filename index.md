@@ -1,3 +1,5 @@
+<button id="darkModeToggle">Toggle Dark Mode</button>
+
 ## About Me
 I am a Ph.D. student in the Department of Computer Science at Tulane University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.
 
@@ -30,12 +32,12 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 ## Work Experience
 
-**Fellow**<br>
-*Data Science for the Public Good (DSPG) Summer Program*, Ames, Iowa, May 2020 – August 2020 <br><br>
-**Integrated Solutions Engineering Co-op, Research and Development**<br>
-*Danfoss*, Ames, Iowa, Jan 2019 – Aug 2019 <br><br>
-**Design Engineering Co-op, Global Product Organization**<br>
-*Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
-**Research and Development Intern**<br>
-*ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
+- **Fellow**<br>
+  *Data Science for the Public Good (DSPG) Summer Program*, Ames, Iowa, May 2020 – August 2020 <br><br>
+- **Integrated Solutions Engineering Co-op, Research and Development**<br>
+  *Danfoss*, Ames, Iowa, Jan 2019 – Aug 2019 <br><br>
+- **Design Engineering Co-op, Global Product Organization**<br>
+  *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
+- **Research and Development Intern**<br>
+  *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
 
