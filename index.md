@@ -1,5 +1,3 @@
-<button id="darkModeToggle">Toggle Dark Mode</button>
-
 ## About Me
 I am a Ph.D. student in the Department of Computer Science at Tulane University. Deep Reinforcement Learning, Causal Inference, and Bayesian Networks are my interests. I completed my Master's degree in Mechanical Engineering from Iowa State University in 2019. My Master's research was on mechano-chemical milling techniques.
 
@@ -49,38 +47,11 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 <style>
 body {
+    background-color: #000000;
+    color: #ffffff;
     transition: background-color 0.3s, color 0.3s;
 }
-.dark-mode {
-    background-color: #1a1a1a;
-    color: #ffffff;
-}
-.dark-mode a {
+a {
     color: #bb86fc;
 }
-#darkModeToggle {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
-    z-index: 1000;
-}
 </style>
-
-<script>
-function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-}
-
-document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
-
-// Check for saved dark mode preference
-if (localStorage.getItem('darkMode') === 'true') {
-    document.body.classList.add('dark-mode');
-}
-</script>
