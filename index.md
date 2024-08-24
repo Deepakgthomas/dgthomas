@@ -41,3 +41,40 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 - **Research and Development Intern**<br>
   *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
 
+<style>
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+.dark-mode a {
+    color: #bb86fc;
+}
+#darkModeToggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    z-index: 1000;
+}
+</style>
+
+<script>
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+}
+
+document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
+
+// Check for saved dark mode preference
+if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+}
+</script>
