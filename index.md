@@ -45,6 +45,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 - **Research and Development Intern**<br>
   *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
 
+
 <style>
 body {
     transition: background-color 0.3s, color 0.3s;
