@@ -28,7 +28,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 - Technical Program Committee Member: EuroMLSys @ EuroSys 2023
 - Reviewer for Transactions on Emerging Topics in Computational Intelligence
 
-  ## Awards
+## Awards
 
 - 2024 ISU Department of Computer Science Publication Award
 - 2023 ISU Department of Computer Science Publication Award
