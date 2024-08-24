@@ -34,6 +34,7 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 - 2024 ISU Department of Computer Science Publication Award
 - 2023 ISU Department of Computer Science Publication Award
+- ASE 2023 ACM SIGSOFT Distinguished Paper Award
   
 ## Work Experience
 
