@@ -44,15 +44,3 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
   *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
 - **Research and Development Intern**<br>
   *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
-
-body {
-    background-color: #000000;
-    color: #ffffff;
-    transition: background-color 0.3s, color 0.3s;
-}
-a {
-    color: #bb86fc;
-}
-strong {
-    color: #ffffff; /* Ensures bold text is white and readable */
-}
