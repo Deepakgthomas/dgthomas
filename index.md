@@ -1,12 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+---
+layout: default
+title: Your Name - Personal Page
+---
+
+<style>
+body {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+a {
+  color: #4fc3f7;
+}
+a:hover {
+  color: #81d4fa;
+}
+</style>
 
 ## About Me
 I am a Ph.D. student in the Department of Computer Science at Tulane University. I am interested in working on problems related to Deep Reinforcement Learning, Causal Inference, and Bayesian Networks. I obtained a Master's in Computer Science and Mechanical Engineering from Iowa State University. 
