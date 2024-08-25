@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
 ## About Me
 I am a Ph.D. student in the Department of Computer Science at Tulane University. I am interested in working on problems related to Deep Reinforcement Learning, Causal Inference, and Bayesian Networks. I obtained a Master's in Computer Science and Mechanical Engineering from Iowa State University. 
 
@@ -44,3 +54,5 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
   *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
 - **Research and Development Intern**<br>
   *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
+</body>
+</html>
