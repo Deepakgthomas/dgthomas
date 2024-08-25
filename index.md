@@ -5,14 +5,25 @@ title: Your Name - Personal Page
 
 <style>
 body {
-  background-color: #1e1e1e;
-  color: #e0e0e0;
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
+}
+.container-lg {
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
 }
 a {
-  color: #4fc3f7;
+  color: #4fc3f7 !important;
 }
 a:hover {
-  color: #81d4fa;
+  color: #81d4fa !important;
+}
+.markdown-body {
+  color: #e0e0e0 !important;
+  background-color: #1e1e1e !important;
 }
 </style>
 
@@ -62,5 +73,4 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
   *Whirlpool Corporation*, Amana, Iowa, Jan 2018 – July 2018<br><br>
 - **Research and Development Intern**<br>
   *ArcelorMittal USA - Research Facility*, East Chicago, Indiana, May 2017 – Aug 2017
-</body>
-</html>
+
