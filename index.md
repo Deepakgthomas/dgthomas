@@ -4,11 +4,7 @@ title: Your Name - Personal Page
 ---
 
 <style>
-body {
-  background-color: #1e1e1e !important;
-  color: #e0e0e0 !important;
-}
-.container-lg {
+body, .markdown-body, .container-lg {
   background-color: #1e1e1e !important;
   color: #e0e0e0 !important;
 }
@@ -21,9 +17,18 @@ a {
 a:hover {
   color: #81d4fa !important;
 }
-.markdown-body {
-  color: #e0e0e0 !important;
-  background-color: #1e1e1e !important;
+strong, b {
+  color: #ffffff !important;
+}
+em, i {
+  color: #bdbdbd !important;
+}
+/* Specific styling for work experience section */
+#work-experience strong {
+  color: #4fc3f7 !important;
+}
+#work-experience em {
+  color: #81d4fa !important;
 }
 </style>
 
