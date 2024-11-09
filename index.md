@@ -37,6 +37,8 @@ I am a Ph.D. student in the Department of Computer Science at Tulane University.
 
 ## Publications and Preprints
 
+- Thomas, Deepak-George, et al. "µPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults." 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE). IEEE Computer Society, 2024.
+
 - Ghanbari, Ali, et al. "Mutation-based Fault Localization of Deep Neural Networks." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023. **[Distinguished Paper Award]** 
 
 - Thomas, Deepak George, Tichakorn Wongpiromsarn, and Ali Jannesari. "Temporal shift reinforcement learning." Proceedings of the 2nd European Workshop on Machine Learning and Systems. 2022.
